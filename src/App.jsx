@@ -10,12 +10,14 @@ import Private from './components/Schools/Private'
 import Public from './components/Schools/Public'
 import Boarding from './components/Schools/Boarding'
 import Madrasa from './components/Schools/Madrasa'
+import ErrorPage from './components/ErrorPage'
 
 const App = () => {
   return (
     <div>
      <Navbar/>
      <Routes>
+     <Route path="*" element={<ErrorPage/>}/>
       <Route path="/" element={<Home/>}/>
       <Route path="/schools" element={<Schools/>}/>
       <Route path="/about" element={<About/>}/>

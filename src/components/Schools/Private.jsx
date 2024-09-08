@@ -1,6 +1,7 @@
 import React from 'react';
 import schoolsData from '../../../data/data.json';
 
+
 const Private = () => {
   const privateSchoolsData = schoolsData.find(schoolGroup => schoolGroup.type === 'private');
   const privateSchools = privateSchoolsData ? privateSchoolsData.schools : [];
@@ -26,14 +27,23 @@ const Private = () => {
             <p className="text-lg mb-2">Canteen Available: {school.canteen_available ? 'Yes' : 'No'}</p>
             <p className="text-lg mb-2">Boarding Available: {school.boarding_available ? 'Yes' : 'No'}</p>
             <p className="text-lg mb-4">Sports Options: {school.sports_options.join(', ')}</p>
-            <a
-              href="/path-to-your-file/c:\Users\HP\Desktop\School's Info-Detailed Information.docx"
-              download
-              className="bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-6 rounded-full shadow-lg transition-colors duration-300 mt-28">
-              Download Detailed Information
-            </a>
+
+            {/* <Link
+              to={school.PDF}
+              target='_blank'
+              className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md inline-flex items-center"
+            >
+              <i className="fa fa-file-pdf-o mr-2" aria-hidden="true"></i>
+              Download PDF
+            </Link> */}
+
+<a href="/SchoolInfo-DetailedInformation.docx" target="_blank" rel="noopener noreferrer">
+  Download Word Document
+</a>
+
           </div>
         </div>
+
       ))}
     </div>
   );

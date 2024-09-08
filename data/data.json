@@ -9,7 +9,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Cricket", "Football", "Badminton"],
-                "image": "https://thecityschool.edu.pk/wp-content/uploads/campus-directory-1.jpg"
+                "image": "https://thecityschool.edu.pk/wp-content/uploads/campus-directory-1.jpg",
+                "PDF": "https://thecityschool.edu.pk/wp-content/uploads/Primary-Prospectus-2023.pdf"
             },
             {
                 "name": "Beaconhouse School System",
@@ -18,7 +19,9 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Basketball", "Swimming", "Tennis"],
-                "image": "https://i.brecorder.com/primary/2023/05/64585a9d1e13b.jpg"
+                "image": "https://i.brecorder.com/primary/2023/05/64585a9d1e13b.jpg",
+                "PDF": "https://www.beaconhouse.net/wp-content/uploads/2019/01/BSS-Prospectus-2018.pdf"
+
             },
             {
                 "name": "Bay View Academy",
@@ -27,7 +30,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Volleyball", "Athletics", "Hockey"],
-                "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bayview_SS_front_view.jpg"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bayview_SS_front_view.jpg",
+                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
             },
             {
                 "name": "Lahore Grammar School",
@@ -36,7 +40,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Cricket", "Tennis", "Swimming"],
-                "image": "https://lh5.googleusercontent.com/proxy/EYESFaJ4Gkq92cCzUKTT6eFc6mH5etLvvw1UbU4HYSXIcwzWQ1YNokH_JHdz5n2SvHAjedWFehUOSAfar3xLWAFXEvoY5FqKqWb4gH0"
+                "image": "https://lh5.googleusercontent.com/proxy/EYESFaJ4Gkq92cCzUKTT6eFc6mH5etLvvw1UbU4HYSXIcwzWQ1YNokH_JHdz5n2SvHAjedWFehUOSAfar3xLWAFXEvoY5FqKqWb4gH0",
+                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
             },
             {
                 "name": "Roots International",
@@ -45,7 +50,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Football", "Basketball", "Table Tennis"],
-                "image": "https://www.rootsinternational.edu.pk/wp-content/uploads/2023/03/cornel-1.jpeg"
+                "image": "https://www.rootsinternational.edu.pk/wp-content/uploads/2023/03/cornel-1.jpeg",
+                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
             },
             {
                 "name": "Froebel’s International School",
@@ -54,7 +60,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Cricket", "Athletics", "Swimming"],
-                "image": "https://www.informal.pk/uploads/images/202309/image_870x_65085bb8c59c2.jpg"
+                "image": "https://www.informal.pk/uploads/images/202309/image_870x_65085bb8c59c2.jpg",
+                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
             },
             {
                 "name": "Scholars Academy",
@@ -63,7 +70,8 @@
                 "canteen_available": true,
                 "boarding_available": false,
                 "sports_options": ["Football", "Basketball", "Badminton"],
-                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Scholars_Academy_MS_Q233_B104_jeh.jpg"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Scholars_Academy_MS_Q233_B104_jeh.jpg",
+                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
             }
 
         ]
