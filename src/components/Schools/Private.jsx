@@ -28,18 +28,9 @@ const Private = () => {
             <p className="text-lg mb-2">Boarding Available: {school.boarding_available ? 'Yes' : 'No'}</p>
             <p className="text-lg mb-4">Sports Options: {school.sports_options.join(', ')}</p>
 
-            {/* <Link
-              to={school.PDF}
-              target='_blank'
-              className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md inline-flex items-center"
-            >
-              <i className="fa fa-file-pdf-o mr-2" aria-hidden="true"></i>
-              Download PDF
-            </Link> */}
-
-<a href="/SchoolInfo-DetailedInformation.docx" target="_blank" rel="noopener noreferrer">
-  Download Word Document
-</a>
+            <a href="/Private-School-Detailed-Info.docx" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md inline-flex items-center">
+              Download Word Document
+            </a>
 
           </div>
         </div>
