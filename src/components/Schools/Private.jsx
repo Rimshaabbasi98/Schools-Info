@@ -29,7 +29,7 @@ const Private = () => {
             <p className="text-lg mb-4">Sports Options: {school.sports_options.join(', ')}</p>
 
             <a href="/Private-School-Detailed-Info.docx" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md inline-flex items-center">
-              Download Word Document
+            Download Detailed Info
             </a>
 
           </div>

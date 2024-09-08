@@ -26,7 +26,10 @@ const Boarding = () => {
             <p className="text-lg mb-2">Library Available: {school.library_available ? 'Yes' : 'No'}</p>
             <p className="text-lg mb-2">Canteen Available: {school.canteen_available ? 'Yes' : 'No'}</p>
             <p className="text-lg mb-2">Boarding Available: {school.boarding_available ? 'Yes' : 'No'}</p>
-            <p className="text-lg">Sports Options: {school.sports_options.join(', ')}</p>
+            <p className="text-lg mb-4">Sports Options: {school.sports_options.join(', ')}</p>
+            <a href="/Boarding-School-Detailed-Info.docx" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md inline-flex items-center">
+            Download Detailed Info
+            </a>
           </div>
         </div>
       ))}
