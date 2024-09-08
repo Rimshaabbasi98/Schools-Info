@@ -8,9 +8,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Football", "Badminton"],
-                "image": "https://thecityschool.edu.pk/wp-content/uploads/campus-directory-1.jpg",
-                "PDF": "https://thecityschool.edu.pk/wp-content/uploads/Primary-Prospectus-2023.pdf"
+                "sports_options": [
+                    "Cricket",
+                    "Football",
+                    "Badminton"
+                ],
+                "image": "https://thecityschool.edu.pk/wp-content/uploads/campus-directory-1.jpg"
             },
             {
                 "name": "Beaconhouse School System",
@@ -18,10 +21,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Basketball", "Swimming", "Tennis"],
-                "image": "https://i.brecorder.com/primary/2023/05/64585a9d1e13b.jpg",
-                "PDF": "https://www.beaconhouse.net/wp-content/uploads/2019/01/BSS-Prospectus-2018.pdf"
-
+                "sports_options": [
+                    "Basketball",
+                    "Swimming",
+                    "Tennis"
+                ],
+                "image": "https://i.brecorder.com/primary/2023/05/64585a9d1e13b.jpg"
             },
             {
                 "name": "Bay View Academy",
@@ -29,9 +34,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Volleyball", "Athletics", "Hockey"],
-                "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bayview_SS_front_view.jpg",
-                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
+                "sports_options": [
+                    "Volleyball",
+                    "Athletics",
+                    "Hockey"
+                ],
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bayview_SS_front_view.jpg"
             },
             {
                 "name": "Lahore Grammar School",
@@ -39,9 +47,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Tennis", "Swimming"],
-                "image": "https://lh5.googleusercontent.com/proxy/EYESFaJ4Gkq92cCzUKTT6eFc6mH5etLvvw1UbU4HYSXIcwzWQ1YNokH_JHdz5n2SvHAjedWFehUOSAfar3xLWAFXEvoY5FqKqWb4gH0",
-                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
+                "sports_options": [
+                    "Cricket",
+                    "Tennis",
+                    "Swimming"
+                ],
+                "image": "https://lh5.googleusercontent.com/proxy/EYESFaJ4Gkq92cCzUKTT6eFc6mH5etLvvw1UbU4HYSXIcwzWQ1YNokH_JHdz5n2SvHAjedWFehUOSAfar3xLWAFXEvoY5FqKqWb4gH0"
             },
             {
                 "name": "Roots International",
@@ -49,9 +60,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Football", "Basketball", "Table Tennis"],
-                "image": "https://www.rootsinternational.edu.pk/wp-content/uploads/2023/03/cornel-1.jpeg",
-                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
+                "sports_options": [
+                    "Football",
+                    "Basketball",
+                    "Table Tennis"
+                ],
+                "image": "https://www.rootsinternational.edu.pk/wp-content/uploads/2023/03/cornel-1.jpeg"
             },
             {
                 "name": "Froebel’s International School",
@@ -59,9 +73,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Athletics", "Swimming"],
-                "image": "https://www.informal.pk/uploads/images/202309/image_870x_65085bb8c59c2.jpg",
-                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
+                "sports_options": [
+                    "Cricket",
+                    "Athletics",
+                    "Swimming"
+                ],
+                "image": "https://www.informal.pk/uploads/images/202309/image_870x_65085bb8c59c2.jpg"
             },
             {
                 "name": "Scholars Academy",
@@ -69,11 +86,13 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Football", "Basketball", "Badminton"],
-                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Scholars_Academy_MS_Q233_B104_jeh.jpg",
-                "PDF": "file:///C:/Users/HP/Desktop/School's%20Info-Detailed%20Information.pdf"
+                "sports_options": [
+                    "Football",
+                    "Basketball",
+                    "Badminton"
+                ],
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Scholars_Academy_MS_Q233_B104_jeh.jpg"
             }
-
         ]
     },
     {
@@ -85,7 +104,10 @@
                 "library_available": true,
                 "canteen_available": false,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Football"],
+                "sports_options": [
+                    "Cricket",
+                    "Football"
+                ],
                 "image": "https://www.karachicmsalumni.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-09-at-4.21.16-AM-768x544.jpeg"
             },
             {
@@ -94,7 +116,10 @@
                 "library_available": true,
                 "canteen_available": false,
                 "boarding_available": false,
-                "sports_options": ["Badminton", "Table Tennis"],
+                "sports_options": [
+                    "Badminton",
+                    "Table Tennis"
+                ],
                 "image": "https://i.dawn.com/primary/2022/08/62e9d25c8216b.jpg"
             },
             {
@@ -103,16 +128,24 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Hockey", "Athletics"],
+                "sports_options": [
+                    "Cricket",
+                    "Hockey",
+                    "Athletics"
+                ],
                 "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Govt._Girls_High_School_chak_no._291_e.b_%28main_gate%29.jpg"
             },
-                        {
+            {
                 "name": "Government Model School",
                 "intake_capacity": 950,
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Basketball", "Football", "Cricket"],
+                "sports_options": [
+                    "Basketball",
+                    "Football",
+                    "Cricket"
+                ],
                 "image": "https://schoolvisor.org/wp-content/uploads/2022/06/Government-Pilot-Secondary-School-Multan-cover.jpg"
             },
             {
@@ -121,7 +154,11 @@
                 "library_available": true,
                 "canteen_available": false,
                 "boarding_available": false,
-                "sports_options": ["Table Tennis", "Cricket", "Football"],
+                "sports_options": [
+                    "Table Tennis",
+                    "Cricket",
+                    "Football"
+                ],
                 "image": "https://atkdir.com/wp-content/uploads/2020/01/81207922_3118149451548320_5247534245605277696_o.jpg"
             }
         ]
@@ -135,7 +172,11 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Cricket", "Basketball", "Swimming"],
+                "sports_options": [
+                    "Cricket",
+                    "Basketball",
+                    "Swimming"
+                ],
                 "image": "https://cckarachi.edu.pk/wp-content/uploads/2021/08/1.png"
             },
             {
@@ -144,7 +185,11 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Football", "Athletics", "Hockey"],
+                "sports_options": [
+                    "Football",
+                    "Athletics",
+                    "Hockey"
+                ],
                 "image": "https://www.thenews.com.pk//assets/uploads/akhbar/2019-05-13/470527_7843563_PSM-teachers_akhbar.jpg"
             },
             {
@@ -153,9 +198,13 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Tennis", "Cricket", "Swimming"],
+                "sports_options": [
+                    "Tennis",
+                    "Cricket",
+                    "Swimming"
+                ],
                 "image": "https://assets.isu.pub/document-structure/230705065608-f88fe500d4d5afabf290db3724c40153/v1/27d131ddbce5da0e62de4af5bd9c5d70.jpeg?width=720&quality=85%2C50"
-               }
+            }
         ]
     },
     {
@@ -167,7 +216,11 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Cricket", "Football", "Table Tennis"],
+                "sports_options": [
+                    "Cricket",
+                    "Football",
+                    "Table Tennis"
+                ],
                 "image": "https://binoria.org/wp-content/uploads/2014/09/MuhammadiMasjidJamiaBinoria.jpg"
             },
             {
@@ -176,7 +229,11 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Football", "Volleyball", "Badminton"],
+                "sports_options": [
+                    "Football",
+                    "Volleyball",
+                    "Badminton"
+                ],
                 "image": "https://live.staticflickr.com/2334/2126910360_cd7507b6d1_b.jpg"
             },
             {
@@ -185,7 +242,11 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Cricket", "Badminton", "Basketball"],
+                "sports_options": [
+                    "Cricket",
+                    "Badminton",
+                    "Basketball"
+                ],
                 "image": "https://live.staticflickr.com/65535/52676995441_a0f961c720_z.jpg"
             },
             {
@@ -194,7 +255,10 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": false,
-                "sports_options": ["Cricket", "Football"],
+                "sports_options": [
+                    "Cricket",
+                    "Football"
+                ],
                 "image": "https://i.ytimg.com/vi/DoZZHIu8cqA/hqdefault.jpg"
             },
             {
@@ -203,11 +267,12 @@
                 "library_available": true,
                 "canteen_available": true,
                 "boarding_available": true,
-                "sports_options": ["Football", "Table Tennis"],
+                "sports_options": [
+                    "Football",
+                    "Table Tennis"
+                ],
                 "image": "https://msajamaat.org/images/msbpage/msb1.jpg"
             }
         ]
     }
 ]
-    
-   
