@@ -42,9 +42,9 @@ const Navbar = () => {
 
     return (
         <nav className='bg-white shadow-lg py-4'>
-            <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16'>
-                <div className='flex-shrink-0'>
-                    <img src={Logo} alt="SchoolInfo Logo" className='h-auto w-auto' />
+            <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center '>
+                <div>
+                   <Link to={"/"}> <img src={Logo} alt="SchoolInfo Logo" className='h-auto w-auto' /></Link>
                 </div>
                 <div className='hidden md:flex items-center space-x-10'>
                     <Link to="/" className='text-gray-700 hover:text-green-500'>Home</Link>

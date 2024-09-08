@@ -36,7 +36,7 @@ const schoolTypes = [
 
 const Schools = () => {
   return (
-    <div className="bg-gray-100 py-10">
+    <div className="bg-gray-200 py-10">
       <div className="w-[80%] m-auto text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-800">Explore Schools in Karachi</h1>
         <p className="text-lg text-gray-600 mt-4">This website helps you explore different types of schools in Karachi, making it easier for you to find the perfect fit for your child’s education.</p>
